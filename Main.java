@@ -73,7 +73,6 @@ public class Main {
                 
                 // Verifica se o campo do nome está vazio
                 if (campoNome.getText().equals("")) {
-                    System.out.println("WHAT");
                     erroNomeObrigatorio.setVisible(true);
                     sucesso = false;
                 } else {
