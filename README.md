@@ -9,4 +9,4 @@
   - Validação de idade
   - Todos campos são obrigatórios
 - Confirmação da criação do usuário usando um pop-up.
- 
+- Dashboard simples para visualizar todos os usuários cadastrados e suas informações
